@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Prints 1 to 20; "bad luck from China" the 4th,
-# "bad luck from Japan" the 9th, and "bad luck from Italy" the 17th
+# Prints 1 - 20; "bad luck from China" as the fourth,
+# "bad luck from Japan" the nineth, and "bad luck from Italy" the seventeenth
 
 i=1
 while [ "$i" -le 20 ]
